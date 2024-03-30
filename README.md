@@ -36,6 +36,8 @@ Looking to collaborate on innovative projects? Let's connect!
 
 ![Jitendra's Github Stats](https://github-readme-stats.vercel.app/api?username=jitendrasuthar1998&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrasuthar1998&layout=pie)](https://github.com/jitendrasuthar1998/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=jitendrasuthar1998)
 
 <!--
