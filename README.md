@@ -1,6 +1,6 @@
-## Frontend Enthusiast | Building Creative Experiences with React.js ⚛️
+# I'm Jitendra Suthar
 
-I'm Jitendra Suthar, a passionate frontend developer with 2+ years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
+### Frontend Enthusiast | Building Creative Experiences with React.js ⚛️ A passionate frontend developer with 2+ years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
 
 Beyond React, I'm always up for a challenge, exploring tools like React Native and Next.js for mobile and server-side rendering. On the backend, I dabble in Node.js to connect the dots.
 
@@ -38,7 +38,11 @@ Looking to collaborate on innovative projects? Let's connect!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrasuthar1998&layout=pie)](https://github.com/jitendrasuthar1998/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrasuthar1998&theme=tokyonight" alt="mystreak"/>
+
 ![](https://komarev.com/ghpvc/?username=jitendrasuthar1998)
+
+
 
 <!--
 **jitendrasuthar1998/jitendrasuthar1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
