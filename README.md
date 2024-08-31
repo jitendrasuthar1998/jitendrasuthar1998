@@ -1,12 +1,12 @@
 # I'm Jitendra Suthar
 
-### Frontend Enthusiast | Building Creative Experiences with React.js ⚛️ A passionate frontend developer with 2+ years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
+### Frontend Enthusiast | Building Creative Experiences with React.js ⚛️ A passionate frontend developer with 3+ years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
 
 Beyond React, I'm always up for a challenge, exploring tools like React Native and Next.js for mobile and server-side rendering. On the backend, I dabble in Node.js to connect the dots.
 
-Currently pursuing my Master's in Computer Application to further sharpen my skills.
+I am currently pursuing my Master's in Computer Application to sharpen my skills further.
 
-Looking to collaborate on innovative projects? Let's connect!
+Are you looking to collaborate on innovative projects? Let's connect!
 
 ### My Tech Stack
 
