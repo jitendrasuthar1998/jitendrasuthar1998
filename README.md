@@ -1,12 +1,16 @@
 # I'm Jitendra Suthar
 
-### Frontend Enthusiast | Building Creative Experiences with React.js ⚛️ A passionate frontend developer with 3+ years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
+### Frontend Enthusiast | Building Creative Experiences with React.js⚛️
 
-Beyond React, I'm always up for a challenge, exploring tools like React Native and Next.js for mobile and server-side rendering. On the backend, I dabble in Node.js to connect the dots.
+A passionate frontend developer with over 3 years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
 
-I am currently pursuing my Master's in Computer Application to sharpen my skills further.
+Beyond React, I'm always up for a challenge, exploring tools like **React Native** and **Next.js** for mobile and server-side rendering. On the backend, I dabble in **Node.js** to connect the dots.
 
-Are you looking to collaborate on innovative projects? Let's connect!
+Currently, I am pursuing my Master's in Computer Application to sharpen my skills further.
+
+**Are you looking to collaborate on innovative projects? Let's connect!**
+
+---
 
 ### My Tech Stack
 
@@ -34,11 +38,15 @@ Are you looking to collaborate on innovative projects? Let's connect!
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Jitendra's Github Stats](https://github-readme-stats.vercel.app/api?username=jitendrasuthar1998&show_icons=true)
+---
+
+### GitHub Stats
+
+![Jitendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendrasuthar1998&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrasuthar1998&layout=pie)](https://github.com/jitendrasuthar1998/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrasuthar1998&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrasuthar1998&theme=tokyonight" alt="my streak"/>
 
 ![](https://komarev.com/ghpvc/?username=jitendrasuthar1998)
 
