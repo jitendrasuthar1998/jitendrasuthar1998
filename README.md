@@ -1,10 +1,10 @@
 # I'm Jitendra Suthar
 
-### Frontend Enthusiast | Building Creative Experiences with React.js⚛️
+### Frontend Enthusiast | Building Creative Experiences with React.js, JavaScript⚛️
 
 A passionate frontend developer with over 3 years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
 
-Beyond React, I'm always up for a challenge, exploring tools like **React Native** and **Next.js** for mobile and server-side rendering. On the backend, I dabble in **Node.js** to connect the dots.
+Beyond React, I'm always up for a challenge, exploring tools like **React Native** and **Next.js** for mobile and server-side rendering. On the backend, I dabble in **Node.js, Express.js, MongoDB** to connect the dots.
 
 Currently, I am pursuing my Master's in Computer Application to sharpen my skills further.
 
@@ -15,7 +15,7 @@ Currently, I am pursuing my Master's in Computer Application to sharpen my skill
 ### My Tech Stack
 
 #### Frontend
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
