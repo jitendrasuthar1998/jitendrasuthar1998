@@ -1,14 +1,27 @@
-# I'm Jitendra Suthar
+## 👋 Hi, I'm Jitendra Suthar
 
-### Frontend Enthusiast | Building Creative Experiences with React.js, JavaScript⚛️
+### 🚀 Frontend Developer | Crafting Intuitive Web & Mobile Interfaces with React ⚛️
 
-A passionate frontend developer with over 3 years of experience crafting user-centric web applications using React.js and a sprinkle of other cool technologies. 🪄
+I'm a passionate frontend developer with **3+ years of experience** turning ideas into sleek, user-friendly digital products. I specialize in **React.js**, where I blend performance with design to build engaging user interfaces.
 
-Beyond React, I'm always up for a challenge, exploring tools like **React Native** and **Next.js** for mobile and server-side rendering. On the backend, I dabble in **Node.js, Express.js, MongoDB** to connect the dots.
+🌐 **What I work with:**
 
-Currently, I am pursuing my Master's in Computer Application to sharpen my skills further.
+* **Frontend:** React.js, JavaScript, TypeScript, Redux, Next.js
+* **Mobile:** React Native
+* **Backend (a bit of fun):** Node.js, Express.js, MongoDB
+* **Tools I like:** Git, Firebase, Tailwind CSS, Figma
 
-**Are you looking to collaborate on innovative projects? Let's connect!**
+💡 I love exploring new tech, building side projects, and collaborating with like-minded developers.
+
+---
+
+### 🤝 Open to Collaborations & Opportunities
+
+If you're working on something exciting or want to build something together — **let's connect!**
+
+📫 [jitendrasuthar995@gmail.com](mailto:jitendrasuthar995@gmail.com)
+🌐 [Portfolio Website](https://jitendras-portfolio.netlify.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/jitendrasuthar1998)
 
 ---
 
